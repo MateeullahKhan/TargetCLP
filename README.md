@@ -36,7 +36,7 @@ extarctESMEmbeddings.py is the Python File for extracting <br />
 featureSelectClathrin.m is the MATLAB  File for selecting optimal features using <br /> 
 (1)	BTGA (Binary Tree Growth Algorithm) <br />
 
-##NOTE: 
+## NOTE: 
 For Feature integration and Classification, please directly run them from their corresponding folders.
 
 ## (XI)	Contact
