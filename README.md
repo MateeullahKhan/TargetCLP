@@ -2,13 +2,13 @@
 The code is the implementation of our method described in the paper “Matee Ullah, Shahid Akbar, Kashif Ahmad Khan, Ali Raza, Quan Zou; TargetCLP: clathrin proteins prediction combining transformed and evolutionary scale modeling-based multi-view features via weighted feature integration approach”.
 ## (I) 1_Data
 There are two datasets in the data Folder:
-### (i)	Train dataset
+### (1)	Train dataset
 The benchmark training dataset "Clathrin_Training.fasta", which contains 1288 positive and 1133 negative peptides samples.
-### (ii)	Independent datasets
+### (2)	Independent datasets
 The independent dataset "Clathrin-Independent.fasta" contains a total of 485 protein sequences (258 positive and 227 negative samples). <br />
 ## (II) 2_FeatureExtractionCode
 This folder contains the following Folder.
-### (2)	lib
+### (1)	lib
 the folder "lib" contains all the features extraction related necessary codes used in this study.<br />
 ## (III)	3_FeatureFusion
 3_FeatureFusion folder includes the following file
