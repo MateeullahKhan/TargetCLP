@@ -38,5 +38,5 @@ featureSelectClathrin.m is the MATLAB  File for selecting optimal features using
 
 NOTE: For Feature integration and Classification, please directly run them from their corresponding folders.
 
-## (VI)	Contact
+## (XI)	Contact
 If you are interested in our work or if you have any suggestions and questions about our research work, please contact us at: E-mail: khan_bcs2010@hotmail.com.
